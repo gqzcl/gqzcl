@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Go and Micro Service
 - 👨‍💻 I am in charge of the promotion and maintenance of [arod-im]().
 - 🏓 Hobby: code & Game
-- 👋 My personal [blog site](https://www.gqzcl.cn)
+- 👋 My personal [blog site](https://gqzcl.cn)
 
 ---
 <details open>
